@@ -13,5 +13,5 @@ Few of the advantages of Markdown are listed below.
 
 The list of popular Markdown flavours are given below.
 1. CommonMark
-2. !!!Github Flavoured Markdown!!!
+2. Github Flavoured Markdown
 3. Markdown Extra
